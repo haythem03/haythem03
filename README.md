@@ -2,11 +2,11 @@
   
 # 🧬 Haythem Mami
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=Computational+Biologist+%7C+Bioinformatician;Transforming+Genomic+Data+into+Biological+Insights)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=Computational+Biologist+%7C+Bioinformatician;Transform+Genomic+Data+into+Biological+Insights)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Genomics%20%26%20Drug%20Development-00D9FF?style=for-the-badge&logo=dna&logoColor=white" />
-  <img src="https://img.shields.io/badge/Expertise-scRNA--seq%20%7C%20RNA--seq%20%7C%20CRISPR-6C63FF?style=for-the-badge&logo=moleculer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Transcriptomics%20%26%20Drug%20Development-00D9FF?style=for-the-badge&logo=dna&logoColor=white" />
+  <img src="https://img.shields.io/badge/Expertise-scRNA--seq%20%7C%20RNA--seq%20%7C%20Genomics-6C63FF?style=for-the-badge&logo=moleculer&logoColor=white" />
   <img src="https://komarev.com/ghpvc/?username=haythem03&style=for-the-badge&color=00D9FF" />
 </p>
 
@@ -18,27 +18,15 @@
 
 > Bridging the gap between **computational power** and **biological discovery**
 
-I'm a computational biologist specializing in **genomics**, **transcriptomics**, and **therapeutic design**. My work revolves around developing robust bioinformatics pipelines and applying cutting-edge computational methods to solve complex biological problems—from understanding disease mechanisms to designing precision therapeutics.
+I'm a computational biologist specializing in **genomics**, **transcriptomics**, and **therapeutic design**. My work revolves around developing robust bioinformatics pipelines and applying cutting-edge computational methods to solve complex biological problems, from understanding disease mechanisms to designing precision therapeutics.
 
-```python
-class ComputationalBiologist:
-    def __init__(self):
-        self.name = "Haythem Mami"
-        self.role = "Bioinformatician & Computational Biologist"
-        self.expertise = {
-            "genomics": ["RNA-seq", "scRNA-seq", "Variant Calling"],
-            "therapeutics": ["ASO Design", "CRISPR Screens", "Drug Development"],
-            "computational": ["Pipeline Development", "ML/AI", "Data Analysis"]
-        }
-        self.languages = ["Python", "R", "Nextflow", "Bash"]
-        self.currently_learning = ["Deep Learning for Genomics", "Spatial Transcriptomics"]
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's decode the genome together 🧬")
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
-me = ComputationalBiologist()
-me.say_hi()
-```
+**💻 Current Focus:**
+- 🧬 Single-cell RNA sequencing analysis
+- 🎯 CRISPR screen data processing
+- 💊 Genetic Therapy
+- ⚡ High-throughput pipeline optimization
 
 ---
 
@@ -81,12 +69,12 @@ Single-cell CRISPR screen analysis of 123 gene knockouts across 44,846 cells to 
 </td>
 <td width="50%">
 
-### 💊 [Bioequivalence Modeling](https://github.com/haythem03/Bioequivalence-Analysis)
-**From molecules to clinical outcomes**
+### 🧬 [Mutation-Aware ASO Design](https://github.com/haythem03/ASO-Design-Exon-Skipping)
+**Anti Sense Oligonucleotides Design**
 
-R Shiny app integrating molecular predictions with popPK/BE modeling for end-to-end drug development simulation.
+Exon Skipping Simulation Pipeline.
 
-`R Shiny` `Pharmacokinetics` `Clinical Trials`
+`Python` `Genetic Therapy` `Simulation`
 
 </td>
 </tr>
@@ -102,7 +90,6 @@ R Shiny app integrating molecular predictions with popPK/BE modeling for end-to-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Nextflow](https://img.shields.io/badge/Nextflow-00C7B7?style=for-the-badge&logo=nextflow&logoColor=white)
 
 ### Bioinformatics & Analysis
@@ -138,19 +125,24 @@ R Shiny app integrating molecular predictions with popPK/BE modeling for end-to-
 
 ---
 
+
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=haythem03&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haythem03&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=haythem03&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=haythem03&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haythem03&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
-</div>
+<br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=haythem03&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
+  <img src="https://streak-stats.demolab.com/?user=haythem03&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=haythem03&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" />
 </div>
 
 ---
@@ -197,9 +189,13 @@ R Shiny app integrating molecular predictions with popPK/BE modeling for end-to-
 ## 📈 Contribution Activity
 
 <div align="center">
-  
-![Snake animation](https://github.com/haythem03/haythem03/blob/output/github-contribution-grid-snake-dark.svg)
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=haythem03&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&area_color=00D9FF" width="95%" />
+</div>
 
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haythem03&theme=tokyonight" width="95%" />
 </div>
 
 ---
@@ -210,9 +206,7 @@ R Shiny app integrating molecular predictions with popPK/BE modeling for end-to-
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haythem-mami)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/haythem03)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haythem.mami@insat.ucar.tn)
 
 </div>
 
@@ -226,7 +220,6 @@ R Shiny app integrating molecular predictions with popPK/BE modeling for end-to-
 
 </div>
 
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
