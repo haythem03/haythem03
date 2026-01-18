@@ -138,10 +138,6 @@ Exon Skipping Simulation Pipeline.
 </div>
 <br/>
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=haythem03&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
-</div>
-<br/>
-<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=haythem03&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" />
 </div>
 
