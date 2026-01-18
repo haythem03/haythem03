@@ -2,7 +2,7 @@
   
 # 🧬 Haythem Mami
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=Computational+Biologist+%7C+Bioinformatician;Transform+Genomic+Data+into+Biological+Insights)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=Computational+Biologist+%7C+Bioinformatician;Transforming+Omics+Data+into+Biological+Insights)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Transcriptomics%20%26%20Drug%20Development-00D9FF?style=for-the-badge&logo=dna&logoColor=white" />
