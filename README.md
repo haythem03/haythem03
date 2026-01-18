@@ -126,21 +126,21 @@ Exon Skipping Simulation Pipeline.
 ---
 
 
-## 📊 GitHub Analytics
-
+📊 GitHub Analytics
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=haythem03&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=haythem03&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=haythem03&theme=tokyonight" width="400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=haythem03&theme=tokyonight" width="400" />
 </div>
-
 <br/>
-
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=haythem03&theme=tokyonight" width="400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=haythem03&theme=tokyonight&utcOffset=1" width="400" />
+</div>
+<br/>
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=haythem03&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
 </div>
-
 <br/>
-
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=haythem03&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" />
 </div>
