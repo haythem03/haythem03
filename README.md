@@ -1,6 +1,6 @@
 <div align="center">
   
-# 🧬 Haythem Mami
+# Haythem Mami
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=Computational+Biologist+%7C+Bioinformatician;Transforming+Omics+Data+into+Biological+Insights)](https://git.io/typing-svg)
 
@@ -14,7 +14,7 @@
 
 ---
 
-## 🔬 About Me
+## About Me
 
 > Bridging the gap between **computational power** and **biological discovery**
 
@@ -22,21 +22,21 @@ I'm a computational biologist specializing in **genomics**, **transcriptomics**,
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
-**💻 Current Focus:**
-- 🧬 Single-cell RNA sequencing analysis
-- 🎯 CRISPR screen data processing
-- 💊 Genetic Therapy
-- ⚡ High-throughput pipeline optimization
+**Current Focus:**
+- Single-cell RNA sequencing analysis
+- CRISPR screen data processing
+- Genetic Therapy
+- High-throughput pipeline optimization
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🧬 [scRNA-seq Erlotinib Response](https://github.com/haythem03/scRNAseq-Erlotinib-Response)
+### [scRNA-seq Erlotinib Response](https://github.com/haythem03/scRNAseq-Erlotinib-Response)
 **Single-cell transcriptomics meets cancer therapeutics**
 
 Comprehensive analysis of NSCLC cellular responses to Erlotinib using state-of-the-art single-cell RNA-seq workflows.
@@ -46,7 +46,7 @@ Comprehensive analysis of NSCLC cellular responses to Erlotinib using state-of-t
 </td>
 <td width="50%">
 
-### ⚡ [Nextflow RNA-Seq Pipeline](https://github.com/haythem03/Nextflow_RNASeq)
+### [Nextflow RNA-Seq Pipeline](https://github.com/haythem03/Nextflow_RNASeq)
 **Production-grade RNA-seq analysis**
 
 End-to-end automated pipeline: QC → Trimming → Alignment → Quantification. Built for reproducibility and scalability.
@@ -59,7 +59,7 @@ End-to-end automated pipeline: QC → Trimming → Alignment → Quantification.
 <tr>
 <td width="50%">
 
-### 🎯 [CRISPR Knockout Analysis](https://github.com/haythem03/CRISPR_Knockout-scRNAseq)
+### [CRISPR Knockout Analysis](https://github.com/haythem03/CRISPR_Knockout-scRNAseq)
 **Mapping adipogenesis regulatory networks**
 
 Single-cell CRISPR screen analysis of 123 gene knockouts across 44,846 cells to decode adipocyte differentiation.
@@ -69,7 +69,7 @@ Single-cell CRISPR screen analysis of 123 gene knockouts across 44,846 cells to 
 </td>
 <td width="50%">
 
-### 🧬 [Mutation-Aware ASO Design](https://github.com/haythem03/ASO-Design-Exon-Skipping)
+### [Mutation-Aware ASO Design](https://github.com/haythem03/ASO-Design-Exon-Skipping)
 **Anti Sense Oligonucleotides Design**
 
 Exon Skipping Simulation Pipeline.
@@ -82,7 +82,7 @@ Exon Skipping Simulation Pipeline.
 
 ---
 
-## 💻 Tech Stack & Tools
+## Tech Stack & Tools
 
 <div align="center">
 
@@ -126,7 +126,7 @@ Exon Skipping Simulation Pipeline.
 ---
 
 
-📊 GitHub Analytics
+GitHub Analytics
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=haythem03&theme=tokyonight" width="400" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=haythem03&theme=tokyonight" width="400" />
@@ -143,13 +143,13 @@ Exon Skipping Simulation Pipeline.
 
 ---
 
-## 🎯 Research Interests & Expertise
+## Research Interests & Expertise
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### 🔬 Genomics & Transcriptomics
+### Genomics & Transcriptomics
 - Single-cell RNA-sequencing
 - Bulk RNA-seq analysis
 - Variant calling & annotation
@@ -159,7 +159,7 @@ Exon Skipping Simulation Pipeline.
 </td>
 <td width="33%" valign="top">
 
-### 💊 Therapeutic Development
+### Therapeutic Development
 - Antisense oligonucleotide (ASO) design
 - CRISPR screen analysis
 - Drug response modeling
@@ -169,7 +169,7 @@ Exon Skipping Simulation Pipeline.
 </td>
 <td width="33%" valign="top">
 
-### 🤖 Computational Methods
+### Computational Methods
 - Machine learning for genomics
 - Pipeline development (Nextflow)
 - High-performance computing
@@ -182,7 +182,7 @@ Exon Skipping Simulation Pipeline.
 
 ---
 
-## 📈 Contribution Activity
+## Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=haythem03&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&area_color=00D9FF" width="95%" />
@@ -196,7 +196,7 @@ Exon Skipping Simulation Pipeline.
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
 
